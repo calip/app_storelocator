@@ -1,0 +1,24 @@
+.schlix-store-map {}
+.schlix-store-map-category-view {width:100%; min-height:200px}
+.schlix-store-map-item-view {width:100%; min-height:400px}
+.stores_info_map
+{
+    width:100%;
+    min-height: 400px;
+}
+.list-group {
+    max-height: 400px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.list-group-item {
+    cursor: pointer;
+    font-size: 11px;
+}
+
+.list-group-item strong {
+    font-size: 16px;
+}
